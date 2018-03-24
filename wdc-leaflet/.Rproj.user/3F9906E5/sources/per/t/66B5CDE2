@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521891795598.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "391735221",
+    "id" : "66B5CDE2",
+    "lastKnownWriteTime" : 1521891343,
+    "last_content_update" : 1521891343,
+    "path" : "~/Documents/r/100daysofcode/wdc-leaflet/dash/dash.R",
+    "project_path" : "dash/dash.R",
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

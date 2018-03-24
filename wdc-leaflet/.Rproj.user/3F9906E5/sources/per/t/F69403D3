@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521891518146.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "75683724",
+    "id" : "F69403D3",
+    "lastKnownWriteTime" : 1521891659,
+    "last_content_update" : 1521891659856,
+    "path" : "~/Documents/r/100daysofcode/wdc-leaflet/leaflet_script.R",
+    "project_path" : "leaflet_script.R",
+    "properties" : {
+        "cursorPosition" : "152,0",
+        "scrollLine" : "113"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
